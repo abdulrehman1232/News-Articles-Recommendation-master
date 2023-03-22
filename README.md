@@ -281,5 +281,5 @@ python test.py <user_id>
 
 
 Project can be found at following link:
-[Project_code](https://nbviewer.jupyter.org/github/archd3sai/News-Articles-Recommendation/blob/581d0ca29a366121f28f0529e684cb39ec635a48/Final_notebook.ipynb)
+[Project_code](https://github.com/abdulrehman1232/News-Articles-Recommendation-master/blob/main/Final_notebook.ipynb)
 Alternatively, this note book is also devided into train and test script.
